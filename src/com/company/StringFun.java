@@ -1,8 +1,8 @@
 package com.company;
 
-public class Stringfun {
+public class StringFun {
     public static void main(String args[]) {
-        Stringfun Callobj = new Stringfun();
+        StringFun Callobj = new StringFun();
         Callobj.StringToInt("001");
         Callobj.IntToString(200, 002);
         Callobj.CharToInteger('5');
